@@ -12,15 +12,19 @@ Systems Engineering student focused on software development, data analysis, and 
 ---
 
 ## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</p>
 
 ---
-
 ## 🧾 Certifications
 - 🥇 **SQL (Advanced)** — HackerRank, 2023  
 - 🐍 **Python (Basic)** — HackerRank, 2025  
